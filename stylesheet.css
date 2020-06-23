@@ -1,0 +1,61 @@
+
+p{
+  font-family: 'Georgia', serif, "Times New Roman", arial;
+  font-size: 13px/14px;
+}
+
+#content {
+ margin: 0 auto;
+ width: 900px;
+}
+
+h1{
+  font-family: 'Helvetica', sans-serif;
+  font-size: 14px/20px;
+  font-style: italic;
+}
+
+.bd{
+  font-family: 'Helvetica';
+  font-size: 14pt;
+  font-style: italic;
+}
+
+.banner{
+  margin: 0 auto;
+}
+
+blockquote{
+  font: 20px/23px normal helvetica, sans-serif;
+  font-style: italic;
+  margin-top: 15px;
+  margin-bottom: 15px;
+  color: red;
+  margin-left: 50px;
+  padding-left: 15px;
+  border-left: 4px solid #ddd;
+}
+
+.quote{
+  text-align: center;
+  margin: 0 auto;
+  font-family: normal helvetica, sans-serif;
+  font-style: italic;
+  font-size: 18px/20px;
+  font-weight: bold;
+}
+
+.related li{
+  margin:0 auto;
+  padding:0 auto;
+  display: inline;
+  list-style-type: none;
+  text-align: center;
+}
+
+h2{
+  margin: 0 auto;
+  font-family: 'Helvetica', sans-serif;
+  font-size: 14pt;
+  text-align: center;
+}

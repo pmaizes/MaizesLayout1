@@ -15,9 +15,9 @@ h1{
   font-style: italic;
 }
 
-.bd{
-  font-family: 'Helvetica';
-  font-size: 14pt;
+#byline{
+  font-family: 'Helvetica', sans-serif;
+  font-size: 14px;
   font-style: italic;
 }
 
